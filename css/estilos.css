@@ -38,7 +38,10 @@ body
 {
     font-size: 20px;
 }
-/*#post
+#footer
 {
     padding: 1em;
-}*/
+    text-align: center;
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
